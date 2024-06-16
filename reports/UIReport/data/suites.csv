@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sat Mar 23 22:57:35 CST 2024","Sat Mar 23 22:57:36 CST 2024","926","testcase","test_基础数据","","","","搜索allure",""
+"passed","Sat Mar 23 22:57:36 CST 2024","Sat Mar 23 22:57:36 CST 2024","824","testcase","test_采购","","","","搜索playwright",""
+"passed","Sat Mar 23 22:57:27 CST 2024","Sat Mar 23 22:57:35 CST 2024","7766","testcase","test_基础数据","","","","搜索pytest",""
